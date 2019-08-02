@@ -1,3 +1,5 @@
+Starbound-Modding-Automation-Tools-WIP
+============================
 This is a set of tools to automate the modding process for Starbound. These tools allow you to patch hundreds or even thousands of files in the game. Included is a demo which will create patch food items to create "allergies".
 
 WARNING:
